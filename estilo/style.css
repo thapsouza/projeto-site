@@ -8,8 +8,16 @@ body{
 }
 main {
     background-color: white;
-    width: 500px;
+    width: 560px;
     margin: auto;
     padding: 1px; 
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.37);
+}
+h1{
+    font-size: 2em;
+    color: blueviolet;
+}
+h2{
+    font-size: 1.5em;
+    color: blueviolet;
 }
