@@ -8,9 +8,10 @@ body{
 }
 main {
     background-color: white;
-    width: 560px;
+    width: 600px;
+
     margin: auto;
-    padding: 1px; 
+    padding: 1%; 
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.37);
 }
 h1{
@@ -20,4 +21,24 @@ h1{
 h2{
     font-size: 1.5em;
     color: blueviolet;
+}
+img.lado {
+    float: right;
+   
+}
+abbr{
+    text-decoration: none;
+    font-weight: bold;
+    color: blueviolet;
+}
+abbr:hover{
+    text-decoration: underline;
+    color: blueviolet;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color:blueviolet;
+    text-decoration: underline;
 }
